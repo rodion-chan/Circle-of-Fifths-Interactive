@@ -130,7 +130,6 @@ Custom letter-shortcut assignments are saved in the browser's local storage when
 - `LICENSE` — MIT license for the original application code.
 - `THIRD-PARTY-NOTICES.md` — attribution and license information for embedded fonts.
 - `OFL-1.1-C059.txt` — full SIL OFL 1.1 license text for C059 Roman and its MicrotonalFont derivative.
-- `fonts/` — the original C059 Roman and modified MicrotonalFont OTF files.
 
 ## Licensing
 
