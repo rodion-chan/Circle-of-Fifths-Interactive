@@ -57,25 +57,17 @@ The screenshots below illustrate the main musical worlds and a representative re
 
 ![C Major Triad on the Circle of Fifths in 12 TET](screenshots/c-major-triad-circle-of-fifths-12-tet.png)
 
-C Major Triad on the Circle of Fifths in 12 TET
-
 ![Reflection of the C Major Triad on the Chromatic Circle in 12 EDO with Dark Theme](screenshots/c-major-triad-reflection-chromatic-circle-12-edo-dark.png)
-
-Reflection of the C Major Triad on the Chromatic Circle in 12 EDO with Dark Theme
 
 ### 31 EDO
 
 ![C Harmonic Seventh Chord on the Circle of Fifths in 31 EDO](screenshots/c-harmonic-seventh-chord-circle-of-fifths-31-edo.png)
 
-C Harmonic Seventh Chord on the Circle of Fifths in 31 TET
-
 ![C Harmonic Seventh Chord on the Chromatic Circle in 31 EDO](screenshots/c-harmonic-seventh-chord-chromatic-circle-31-edo.png)
-
-C Harmonic Seventh Chord on the Chromatic Circle in 31 EDO
 
 ## Getting started
 
-1. Download `Circle-of-Fifths-Interactive-Beta-1.0.html` from this repository.
+1. Download `index.html` from this repository (the file is the standalone Beta 1.0 application).
 2. Open the file in a modern desktop web browser.
 3. For the intended workspace, use the browser's full-screen mode.
 4. Open **About** from the illustration credit at the bottom of the application to see the complete interaction guide and keyboard shortcuts.
@@ -133,16 +125,18 @@ Custom letter-shortcut assignments are saved in the browser's local storage when
 
 ## Project files
 
-- `Circle-of-Fifths-Interactive-Beta-1.0.html` — the standalone application.
+- `index.html` — the standalone Beta 1.0 application.
 - `README.md` — project overview and usage guide.
-- `LICENSE` — MIT license for the original application code, subject to the third-party asset notices below.
+- `LICENSE` — MIT license for the original application code.
 - `THIRD-PARTY-NOTICES.md` — attribution and license information for embedded fonts.
+- `OFL-1.1-C059.txt` — full SIL OFL 1.1 license text for C059 Roman and its MicrotonalFont derivative.
+- `fonts/` — the original C059 Roman and modified MicrotonalFont OTF files.
 
 ## Licensing
 
-The original application code is offered under the **MIT License**. The MIT license does not replace or override the separate licenses that apply to bundled third-party fonts. Read [`THIRD-PARTY-NOTICES.md`](./THIRD-PARTY-NOTICES.md) before redistributing the bundled HTML or extracting its font assets.
+The original application code is offered under the **MIT License**. The bundled Geist Mono font is licensed under SIL OFL 1.1. C059 Roman and the modified MicrotonalFont are also distributed under SIL OFL 1.1, using the documented OFL alternative for URW Core 35 Version 2.0. The fonts are not relicensed under MIT.
 
-The bundled fonts are not relicensed under MIT. Their copyright notices and applicable license terms remain in force.
+Read [`THIRD-PARTY-NOTICES.md`](./THIRD-PARTY-NOTICES.md) and [`OFL-1.1-C059.txt`](./OFL-1.1-C059.txt) for font attribution and license terms.
 
 ## Credits
 
